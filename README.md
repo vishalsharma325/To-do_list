@@ -22,7 +22,7 @@ Three priority levels (Low, Medium, High)
 
 Visual distinction with different colors
 
-Filter by priority
+Filter by prior ity 
 
 Due Dates:
 
