@@ -1,5 +1,5 @@
 # To-do_list
-Features Included
+Features Includes.
 Task Management:
 
 Add new tasks with title, category, priority, and due date
