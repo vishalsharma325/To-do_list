@@ -8,7 +8,7 @@ Mark tasks as complete/incomplete
 
 Edit existing tasks
 
-Delete tasks
+Delete takes.
 
 Categories:
 
