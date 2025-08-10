@@ -50,4 +50,4 @@ Works on mobile and desktop devices
 
 Persistence:
 
-All data saved to localStorage
+All data saved to localStorage.
